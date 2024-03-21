@@ -1,0 +1,28 @@
+{
+  "name": "quibusdamet",
+  "version": "1.0.0",
+  "description": "Custom identity store for Mimo on OrbitDB",
+  "main": "src/MimoStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RogelioVolkman/quibusdamet.git"
+  },
+  "keywords": [
+    "accusamus",
+    "web3",
+    "voluptatem",
+    "in",
+    "decentralized",
+    "database"
+  ],
+  "author": "EdnaKuhic",
+  "license": "MIT",
+  "dependencies": {
+    "eth-crypto": "^1.2.3",
+    "orbit-db-kvstore": "^1.4.0"
+  },
+  "devDependencies": {}
+}
